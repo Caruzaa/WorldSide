@@ -1,0 +1,24 @@
+[
+    {
+        "nome": "Grand Theft Auto San Andreas",
+        "genero": "Ação, Aventura",
+        "descricao": "Grand Theft Auto: San Andreas (GTA San Andreas) é um jogo de ação e aventura de mundo aberto desenvolvido pela Rockstar North e lançado em 2004. A história acompanha Carl 'CJ' Johnson, que retorna à sua gangue, as Grove Street Families, após cinco anos longe de Los Santos, no estado fictício de San Andreas. O jogo se passa em um mundo aberto vasto e detalhado, com três cidades principais (Los Santos, San Fierro e Las Venturas), além de áreas rurais e desertas, proporcionando liberdade de exploração.",
+        "exe_nome": "gta-sa.exe",
+        "icone_url": "https://www.gtainside.com/downloads/picr/2017-08/1503174392_gta_sa.jpg",
+        "banner_url": "https://cdn2.steamgriddb.com/hero/3c184dcd417be3257ecc68d4c195b463.png",
+        "zip_url": "https://download1323.mediafire.com/xjrrvn7yarmgYUCUkA-ba-YY350BbDxN3lV3Anx3hLSidwbJi6bPU-q5YGt5YcoGCHO7O4h0hV_C4a2nrMiQ1Ga2Cx2KYxgmRi-vUYQiBGoG34w3Ki9MteO46noiN3C1EZO3IZ8bnEnjyodUUf5De07V_RstPXJjTLUZ37CN0U_ZcC7F2Q/twqvh4izb3ykfjh/Meu+v%C3%ADdeo.mp4",
+        "trailer_url": "https://youtu.be/u_CbHrBbHNQ?si=S_s4twaqTzkR4hqL",
+        "desenvolvedora": "Rockstar North",
+        "publicadora": "Rockstar Games",
+        "data_lancamento": "26 de outubro de 2004",
+        "site_oficial": "https://www.rockstargames.com/sanandreas",
+        "requisitos_minimos": {
+            "SO": "Windows 2000/XP",
+            "Processador": "1GHz Pentium III or AMD Athlon Processor",
+            "Memória": "256MB RAM",
+            "Gráficos": "64MB DirectX 8.1 compatible video card",
+            "Armazenamento": "3.6GB HD space"
+        },
+        "idiomas": ["Português (Brasil)", "Inglês", "Espanhol"]
+    }
+]
